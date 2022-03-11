@@ -14,14 +14,14 @@
 * Who are the founders of the company?
 
 
-    * John Pierpont Morgan (JP Morgan)
-    * Balthazar P. Melick (Chemical Bank)
-    * Aaron Burr (The Bank of the Manhattan Company)
-    * John Thompson (Chase National Bank)
+    1. John Pierpont Morgan (JP Morgan)
+    2. Balthazar P. Melick (Chemical Bank)
+    3. Aaron Burr (The Bank of the Manhattan Company)
+    4. John Thompson (Chase National Bank)
 
 * How did the idea for the company (or project) come about?
 
-    
+
     
 * How is the company funded? How much funding have they received?
 
