@@ -19,12 +19,21 @@
     3. Aaron Burr (The Bank of the Manhattan Company)
     4. John Thompson (Chase National Bank)
 
+    https://en.wikipedia.org/wiki/JPMorgan_Chase
+    
 * How did the idea for the company (or project) come about?
 
+    The Manhattan Company, JPMorgan Chase's earliest predecessor institution, is chartered by the New York State legislature to supply "pure and wholesome" drinking water to the city's growing population.  Among its founders are Alexander Hamilton and Aaron Burr.
 
+    A provision in the charter allows The Manhattan Company to use its surplus capital for banking operations.  Within five months, The Bank of The Manhattan Company opens for business, becoming the second commercial bank in New York City after Hamilton’s Bank of New York.  With his banking monopoly broken, Hamilton severs his association with the water company.
+
+    https://www.jpmorganchase.com/about/our-history
     
 * How is the company funded? How much funding have they received?
 
+    JPM's largest revenue source are the financial services they provide to clients large and small; including consumer banking, investment banking, commercial banking, and asset management for individuals, corporations, institutions, and governments globally. The Corporate & Investment Bank segment is the largest source of net income. 
+    
+    https://www.investopedia.com/how-jpmorgan-makes-money-4798002
 
 ## Business Activities:
 
